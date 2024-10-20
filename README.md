@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Um Guia Básico de Git e GitHub
+Introdução
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fiz um post no tabnews no qual foi escrito o básico sobre a utilização do git juntamente com o github, dessa forma fazendo com que em uma leitura básica, alguém consiga já utilizar o git juntamente com o github em seus projetos
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+no caso precisei utilizar somente o chatgpt o1-preview
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei um prompt que descreveria mais ou menos o que eu queria que fosse passado no post, sem entrar em detalhes técnicos, basicamente delimitando com o que o chatgpt ter em 'mente' ao escrever o post, como os públicos e tals, no caso esse prompt abaixo:
+pense como se você fosse um desenvolvedor sênior que vai passar um resumão para um junior de como utilizar o git juntamente com o github, tendo em mente que deve ser explicado de maneira simples o suficiente para alguém que não conhece tanto da área conseguir aprender.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O post no tabnews então foi feito, sendo esse aqui:
+https://www.tabnews.com.br/Math3us/um-guia-basico-de-git-e-github
 ```
 
 ### Exemplos e Insigths
